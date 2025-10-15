@@ -1,0 +1,5 @@
+package com.example.spottro2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
